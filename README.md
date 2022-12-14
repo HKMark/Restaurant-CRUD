@@ -46,7 +46,7 @@ npm install express@4.18.2
 5. 安裝 Handlebars 套件
 
 ```
-npm install express-handlebars@6.0.6
+npm i express-handlebars@3.0.0
 ```
 
 6. 安裝 Nodemon 套件
