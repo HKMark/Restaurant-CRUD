@@ -22,7 +22,7 @@
 1. 開啟終端機(Terminal)，將專案 Clone 到本機電腦
 
 ```
-git clone https://github.com/HKMark/Restaurant-CRUD.git
+git clone https://github.com/HKMark/restaurant_list.git
 ```
 
 2. 進入存放此專案的資料夾
