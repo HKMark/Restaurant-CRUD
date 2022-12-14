@@ -34,7 +34,7 @@ cd restaurant_list
 3. 安裝 npm 套件
 
 ```
-npm install
+npm install express@4.16.4
 ```
 
 4. 安裝 Express 套件
