@@ -57,7 +57,7 @@ npm install -g nodemon
 
 7. 啟動伺服器
 ```
-npm install -g nodemon
+npm run dev
 ```
 
 當終端機顯示"Express is listening on localhost:3000"，代表啟動成功，你可以在瀏覽器輸入 http://localhost:3000 瀏覽內容。
