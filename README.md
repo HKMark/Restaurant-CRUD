@@ -28,7 +28,7 @@ git clone https://github.com/HKMark/Restaurant-CRUD.git
 2. 進入存放此專案的資料夾
 
 ```
-cd Restaurant-CRUD
+cd restaurant_list
 ```
 
 3. 安裝 npm 套件
